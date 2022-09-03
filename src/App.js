@@ -1,5 +1,5 @@
+import AreaOfRectangle from "./Component/AreaOfRectangle";
 function App() {
-  return <div className="App">ahgagah</div>;
+  return <AreaOfRectangle />;
 }
-
 export default App;
